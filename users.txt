@@ -4,5 +4,5 @@ Cheese
 Carrots
 Apple
 books
-Cisco
-Devnet
+ccna
+ccnp
